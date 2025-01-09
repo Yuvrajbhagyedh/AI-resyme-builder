@@ -1,1 +1,1 @@
-# AI-resyme-builder
+# AI-resume-builder
